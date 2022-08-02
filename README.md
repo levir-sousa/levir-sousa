@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levir-sousa
 - 👀 I’m interested in learn to program
-- 🌱 I’m currently learning HTML5 AND CSS3
+- 🌱 I’m currently learning JS, HTML5 AND CSS3
 - 💞️ I’m looking to collaborate on: loading...
 - 📫 How to reach me: twitter (levir_x)
 
